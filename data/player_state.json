@@ -1,0 +1,17 @@
+{
+  "gold": 1000,
+  "inventory": {
+    "Health Potion": 2,
+    "Leather Armor": 1
+  },
+  "target_stats": {
+    "GoldCost": 1000,
+    "Weight": 50,
+    "Attack": 125
+  },
+  "desired_items": [
+    "Iron Sword",
+    "Knight Shield",
+    "Health Potion"
+  ]
+}

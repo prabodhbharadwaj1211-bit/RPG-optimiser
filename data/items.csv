@@ -1,0 +1,7 @@
+ItemName,GoldCost,Weight,Attack,Defense,Healing
+Iron Sword,150,5,25,0,0
+Steel Axe,250,8,40,0,0
+Leather Armor,200,10,0,15,0
+Knight Shield,300,15,0,30,0
+Health Potion,50,1,0,0,50
+Mana Potion,60,1,0,0,25
